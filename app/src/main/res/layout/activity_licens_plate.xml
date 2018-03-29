@@ -68,7 +68,7 @@
 
     <Button
         android:id="@+id/button6"
-        android:layout_width="242dp"
+        android:layout_width="240dp"
         android:layout_height="85dp"
         android:text="Button"
         tools:layout_editor_absoluteX="936dp"
