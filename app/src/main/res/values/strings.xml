@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LicensePlateMarkers</string>
+    <string name="empty_class">Пустой конвейер</string>
+    <string name="error_image">Плохое изображение</string>
+    <string name="dust">Пыль+мелочь</string>
+    <string name="trifle">Мелочь</string>
+    <string name="good">Брикеты</string>
+    <string name="source">Исход.</string>
+    <string name="dest">Назн.</string>
 </resources>
